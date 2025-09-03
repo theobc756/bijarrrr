@@ -14,7 +14,7 @@ Instance.new("UICorner", Frame).CornerRadius = UDim.new(0, 12)
 
 local Title = Instance.new("TextLabel", Frame)
 Title.Size = UDim2.new(1, 0, 0, 40)
-Title.Text = "🔑 Key System IndoSky"
+Title.Text = "🔑 KeyByBijarrrr"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
 Title.Font = Enum.Font.SourceSansBold
@@ -107,7 +107,7 @@ checkBtn.MouseButton1Click:Connect(function()
 
         local TitleAF = Instance.new("TextLabel", FrameAF)
         TitleAF.Size = UDim2.new(1,0,0,25)
-        TitleAF.Text = "🎣 ScriptByBijarrrr"
+        TitleAF.Text = "ScriptByBijarrrr"
         TitleAF.TextColor3 = Color3.fromRGB(255,255,255)
         TitleAF.BackgroundTransparency = 1
         TitleAF.Font = Enum.Font.GothamBold
